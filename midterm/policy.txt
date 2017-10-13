@@ -1,5 +1,10 @@
 After you have completed the exam, please type your name below, indicating
 that you have, in fact, followed the test rules.
 
+<<<<<<< HEAD
 "I have I have neither given nor received help on this exam and
 have followed the rules as stated."
+=======
+“I have neither given nor received help on this exam to or from others
+and have followed the rules as stated.”
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b

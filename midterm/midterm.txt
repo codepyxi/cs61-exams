@@ -1,13 +1,24 @@
+<<<<<<< HEAD
 You will place all the answers for your exam in this file.
 Please do not place your name anywhere in this file.
 
 =-=-=-=-=-=-=-=
 Problem 1:
 
+=======
+CS61 Midterm 2017
+=================
+You will place all the answers for your exam in this file.
+Please do not place your name anywhere in this file.
+
+Problem 1
+---------
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b
 A.
 B.
 C.
 D.
+<<<<<<< HEAD
 
 =-=-=-=-=-=-=-=
 Problem 2:
@@ -43,19 +54,48 @@ C.
 
 Problem 5. 
 
+=======
+E.
+
+Problem 2
+---------
+A.
+B.
+C.
+
+Problem 3
+---------
+A.
+B.
+C.
+
+Problem 4
+---------
+A.
+B.
+
+Problem 5
+---------
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b
 A.
 B.
 C.
 D.
 
+<<<<<<< HEAD
 =-=-=-=-=-=-=-=
 
 Problem 6.
 
+=======
+Problem 6
+---------
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b
 A.
 B.
 C.
 D.
+<<<<<<< HEAD
 E.
 F.
 G.
@@ -63,12 +103,18 @@ G.
 =-=-=-=-=-=-=-=
 Problem 7.
 
+=======
+
+Problem 7
+---------
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b
 A.
 B.
 C.
 D.
 E.
 
+<<<<<<< HEAD
 =-=-=-=-=-=-=-=
 
 Problem 8.
@@ -81,8 +127,33 @@ C.
 
 Problem 9.
 
+=======
+Problem 8
+---------
 A.
 B.
 C.
 D.
 
+Problem 9
+---------
+A.
+B.
+C.
+D.
+
+Problem 10
+----------
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b
+A.
+B.
+C.
+D.
+
+<<<<<<< HEAD
+=======
+Problem 11
+----------
+A.
+B.
+>>>>>>> 881c34a7618c1174f96883dcf58a93674af2917b
