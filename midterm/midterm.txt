@@ -43,7 +43,7 @@ C.(2) Writing the pointe to a disk file and reading it back later ; (3) Using th
 
 Problem 4
 ---------
-A.
+A.  r = x & (-(a < b));
 B.
 
 Problem 5
